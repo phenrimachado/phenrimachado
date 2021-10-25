@@ -1,6 +1,26 @@
-### Olá, seja bem-vindo(a) ao meu repositório! Eu me chamo Pedro Machado e é um prazer te ver aqui! 
-### Hello, welcome to my repository! My name is Pedro Machado and it's a pleasure to see you here!
-##
+# Hello <img src="https://c.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif" alt="Hello GIF" width="50px" height="50px"/> welcome to my repository. It's a pleasure to see you here!
+
+```javascript
+const whoAmI = {
+  name: "Pedro Henrique Machado Ferreira",
+  age: 23,
+  graduation: "Graduated in Systems Analysis and Development",
+  currentCourse: "Rocketseat",
+  hobbies: [
+    "Spend energy with my two dogs",
+    "Consume content about games, technology and innovations",
+    "Watch Friends and The Big Bang Theory one more time"
+  ],
+  currentCity: "Brasilia - DF",
+  ambitions: [
+    "Getting my first job as a JavaScript dev",
+    "Buy a house for my mother",
+    "Impacting the world through technology",
+    "Be happy"
+  ]
+}
+```
+
 
 <div>
   <a href="https://github.com/phenrimachado">
