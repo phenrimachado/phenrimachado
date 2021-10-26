@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="./src/hello-gif.gif" alt="Hello GIF" width="60px" height="60px"/> It's a pleasure to see you here!</h1>
+<h1 align="center"><img src="./src/hello-gif.gif" alt="Hello GIF" width="70px" height="70px"/> It's a pleasure to see you here!</h1>
 
 ```javascript
 const whoAmI = {
@@ -33,6 +33,7 @@ const whoAmI = {
   <div align="center">
     <a href="https://instagram.com/machadohnr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedrohenrique-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://app.rocketseat.com.br/me/pedro-henrique-machado-ferreira-1578580474" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=for-the-badge" target="_blank"></a>
   </div>
 </div>
 
@@ -48,7 +49,13 @@ const whoAmI = {
 <hr>
 
 <div align="center">
-  <a href="https://github.com/phenrimachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phenrimachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenrimachado&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h1>Thank you, and come back soon! <img src="./src/thanks.gif" alt="Thank you gif" height="100" width="120" ></h1>
 </div>
