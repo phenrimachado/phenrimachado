@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./src/hello-gif.gif" alt="Hello GIF" width="70px" height="70px"/> It's a pleasure to see you here!</h1>
+[![Pedro Machado, Welcome to my GitHub profile!!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20GitHub%20profile%21%21&title=Pedro%20Machado)](https://github.com/phenrimachado)
 
 ```javascript
 const whoAmI = {
