@@ -5,6 +5,7 @@ const whoAmI = {
   name: "Pedro Henrique Machado Ferreira",
   age: 23,
   graduation: "Graduated in Systems Analysis and Development",
+  job: "Fullstack Developer at Gran Cursos Online",
   currentCourse: "Rocketseat",
   hobbies: [
     "Spend energy with my two dogs",
@@ -13,7 +14,7 @@ const whoAmI = {
   ],
   currentCity: "Brasilia - DF",
   ambitions: [
-    "Getting my first job as a JavaScript dev",
+    ✅"Getting my first job as a JavaScript dev",
     "Buy a house for my mother",
     "Impacting the world through technology",
     "Be happy"
