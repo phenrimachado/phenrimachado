@@ -23,8 +23,7 @@ const whoAmI = {
   <h2 align="center">More about me... <img src="https://c.tenor.com/l1Ry9iPpuOQAAAAi/fun-fact-dazzle4rare.gif" alt="Hello GIF" width="120px" height="80px"/></h2>
   
   <ul>
-    <li>💻 I'm currently studying web development with a focus on JavaScript ecosystem</li>
-    <li>💪🏻 I'm on a personal project of 90 days of daily study with JavaScript, mental and corporeal development</li>
+    <li>💻 I'm currently studying web development with a focus on JavaScript/PHP ecosystem and all about docker and stuffs</li>
     <li>🧑🏻 Pronouns to use with me: he/his</li>
     <li>📩 If you prefer, you can send me an email at this address: pedrohmf2610@hotmail.com</li>
   </ul>
@@ -44,6 +43,9 @@ const whoAmI = {
     <img align="center" alt="Pedro-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Pedro-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Pedro-Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Pedro-PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Pedro-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Pedro-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <hr>
