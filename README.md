@@ -1,12 +1,10 @@
-[![Pedro Machado, Welcome to my GitHub profile!!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Welcome%20to%20my%20GitHub%20profile%21%21&title=Pedro%20Machado)](https://github.com/phenrimachado)
-
 ```javascript
 const whoAmI = {
   name: "Pedro Henrique Machado Ferreira",
-  age: 23,
+  age: 24,
   graduation: "Graduated in Systems Analysis and Development",
-  job: "Fullstack Developer at Gran Cursos Online",
-  currentCourse: "Rocketseat",
+  job: "Fullstack Developer with PHP & ReactJS",
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips",
   hobbies: [
     "Spend energy with my two dogs",
     "Consume content about games, technology and innovations",
@@ -17,7 +15,7 @@ const whoAmI = {
     ✅"Getting my first job as a JavaScript dev",
     "Buy a house for my mother",
     "Impacting the world through technology",
-    "Be happy"
+    ✅"Be happy"
   ]
 }
 ```
